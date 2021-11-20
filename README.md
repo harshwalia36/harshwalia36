@@ -59,6 +59,19 @@ Hi, I am ***Harsh Walia***💡. I am skilled ***Data Scientist***🎰 with a pas
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=harshwalia36)
 
+## Kaggle Medals
+<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/discussion) -->
+
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/harshwalia/discussion/light)
+
+
 ### Connect with me:
 
 
