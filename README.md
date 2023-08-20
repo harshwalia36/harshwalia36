@@ -1,11 +1,11 @@
 ### Hi buddy 👋
 
-Hi, I am ***Harsh Walia***💡. I am skilled ***Data Scientist***🎰 with a passion to solve Real World Problems using `Data Science and Machine Learning`.
+Hi, I am ***Harsh Walia***💡. I am a skilled ***Data Scientist***🎰 with a passion to solve Real World Problems using `Data Science and Machine Learning`.
 
-
-✔️ I worked on Several End to End Projects based on Machine Learning, Deep Learning, Computer Vision and NLP💥. <br>
+✔️ I have Internship experience @Google India, @Samsung(SRIB), @Scaler(InterviewBit).
+✔️ I worked on Several End to End Projects based on Machine Learning, Deep Learning, Computer Vision, and NLP💥. <br>
 ✔️ I have a good understanding of Data Structures and Algorithms📚 gained through solving Problems on various Coding Platforms. <br>
-✔️ I am also Familiar with MERN stack development and build some Projects and had a Internship Experince. <br>
+✔️ I am also familiar with MERN stack development and build some Projects and had an Internship experience @ONENROLL Education. <br>
 
 ### SKILLS & TECHNOLOGY
 
